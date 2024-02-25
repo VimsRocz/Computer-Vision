@@ -7,16 +7,16 @@ Background subtraction is a crucial technique in image sequence analysis, partic
 - Evaluation with Different Learning Rates: Evaluate the algorithm using two different values for the learning rate: α = 1/50 and α = 1/1400.
 
 ## Written Report Questions
-1. Application of Background Subtraction Algorithm: Apply the implemented algorithm to the provided image sequence. Describe the results obtained, including observations on how results vary with different learning rates and which parts of the image experience more frequent mislabeling.
-2. Meaningful Image Frames Analysis:
+**1. Application of Background Subtraction Algorithm:** Apply the implemented algorithm to the provided image sequence. Describe the results obtained, including observations on how results vary with different learning rates and which parts of the image experience more frequent mislabeling.
+**2. Meaningful Image Frames Analysis:**
    - Display the following for two selected image frames:
      - Background mean image
      - Background variance image
      - Difference image between the mean background and the current frame
      - Binary foreground/background mask
    - Indicate the frame numbers in the captions of the figures.
-3. Advantages and Drawbacks of Single Gaussian Model: Discuss the advantages and drawbacks of using the single Gaussian model for background subtraction.
-4. Handling Difficult Cases:
+**3. Advantages and Drawbacks of Single Gaussian Model:** Discuss the advantages and drawbacks of using the single Gaussian model for background subtraction.
+**4. Handling Difficult Cases:**
    - Discuss the results of the implemented method when dealing with challenging scenarios such as shadows, reflections, and stationary objects.
    - Interpret cases where pixels are wrongly labeled.
-5. Conclusion: Provide a concise summary of the findings and insights gained from implementing and evaluating the background subtraction algorithm with a single Gaussian model. Offer potential avenues for improvement and future research in the field.
+**5. Conclusion:** Provide a concise summary of the findings and insights gained from implementing and evaluating the background subtraction algorithm with a single Gaussian model. Offer potential avenues for improvement and future research in the field.
