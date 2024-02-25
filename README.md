@@ -25,5 +25,5 @@ Discuss the advantages and drawbacks of using the single Gaussian model for back
    - Discuss the results of the implemented method when dealing with challenging scenarios such as shadows, reflections, and stationary objects.
    - Interpret cases where pixels are wrongly labeled.
 
-**5. Conclusion:** 
+## 5. Conclusion:** 
 Provide a concise summary of the findings and insights gained from implementing and evaluating the background subtraction algorithm with a single Gaussian model. Offer potential avenues for improvement and future research in the field.
